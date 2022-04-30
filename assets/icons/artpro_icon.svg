@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="63.99999999999999" height="63.99999999999999" viewBox="68.07363636363638 66.3672727272727 61.58 61.58" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 98.86 97.16)" id="Sljc_paDN5slIVJvoLOFZ"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1.08 0 0 1.08 0 0)" id="rj7mlbEuJe1UH9S05rIpR"  >
+<linearGradient id="SVGID_417" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -28.41 -28.41)"  x1="-21.02272727272725" y1="72.72727272727272" x2="68.75000000000009" y2="-10.227272727272688">
+<stop offset="0%" style="stop-color:#E84242;stop-opacity: 1"/>
+<stop offset="23.999999999999822%" style="stop-color:#FFD700;stop-opacity: 1"/>
+<stop offset="50%" style="stop-color:#00A7FF;stop-opacity: 1"/>
+<stop offset="73.99999999999984%" style="stop-color:#DC31D9;stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:#FF0000;stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: rgb(116,194,77); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_417); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -28.40909 -16.35613 C -28.40909 -23.01279 -23.0128 -28.40909 -16.35613 -28.40909 L 16.356139999999996 -28.40909 L 16.356139999999996 -28.40909 C 23.012799999999995 -28.40909 28.409099999999995 -23.0128 28.409099999999995 -16.35613 L 28.409099999999995 16.356139999999996 L 28.409099999999995 16.356139999999996 C 28.409099999999995 23.012799999999995 23.012809999999995 28.409099999999995 16.356139999999996 28.409099999999995 L -16.35613 28.409099999999995 L -16.35613 28.409099999999995 C -23.01279 28.409099999999995 -28.40909 23.012809999999995 -28.40909 16.356139999999996 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.81 0 0 0.81 0 0)" id="E6Fo5RUgd3oChQmGDWo4x"  >
+<filter id="SVGID_416" y="-34%" height="168%" x="-34%" width="168%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur>
+	<feOffset dx="4" dy="4" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="0.2"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: rgb(39,204,111); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_416);" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -28.40909 -16.35613 C -28.40909 -23.01279 -23.0128 -28.40909 -16.35613 -28.40909 L 16.356139999999996 -28.40909 L 16.356139999999996 -28.40909 C 23.012799999999995 -28.40909 28.409099999999995 -23.0128 28.409099999999995 -16.35613 L 28.409099999999995 16.356139999999996 L 28.409099999999995 16.356139999999996 C 28.409099999999995 23.012799999999995 23.012809999999995 28.409099999999995 16.356139999999996 28.409099999999995 L -16.35613 28.409099999999995 L -16.35613 28.409099999999995 C -23.01279 28.409099999999995 -28.40909 23.012809999999995 -28.40909 16.356139999999996 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.89 0)" style="" id="S2rbdOEjVWPL6ujxzMquP"  >
+		<text xml:space="preserve" font-family="Open Sans" font-size="34" font-style="normal" font-weight="800" letter-spacing="0.068" line-height="0.76" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.34" y="14.48" >A</tspan></text>
+</g>
+</g>
+</g>
+</svg>

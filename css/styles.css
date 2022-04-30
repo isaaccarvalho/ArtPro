@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+body {
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0px 0px 10px #000000;
+    border-radius: 10px;
+}
+
+.titlebar {
+    width: 100%;
+    height: fit-content;
+    background: linear-gradient(90deg, rgba(245,255,5,1) 0%, rgba(41,169,218,1) 35%, rgba(198,20,237,1) 68%, rgba(255,0,0,1) 100%);
+    -webkit-app-region: drag;
+    border-radius: 10px 10px 0 0;
+    text-align: right;
+}
+
+.titlebar .close-btn {
+    padding-right: 10px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 1.5em;
+    -webkit-app-region: no-drag;
+
+}
+
+.titlebar .close-btn:after{
+    display: inline-block;
+    content: "\00d7"; /* This will render the 'X' */
+    font-family: 'FontAwesome', sans-serif;
+}
+
+.titlebar .close-btn:hover {
+    color: black;
+}
+
+.welcome {
+    background-color: white;
+    padding: 20px;
+}
+
+.welcome .logo {
+    height: 3em;
+}
+
+.welcome h1 {
+    margin-bottom: -20px;
+    font-weight: 200;
+}
+
+.welcome h4 {
+    font-weight: 300;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.btn-light {
+    padding: 4px 12px;
+    min-width: 88px;
+    border: none;
+    font: inherit;
+    border-radius: 4px;
+    outline: none;
+    text-decoration: none;
+    cursor: default;
+    font-weight: 400;
+    background: #fff;
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.30), 0px 1px 1px rgba(0, 0, 0, .4);
+    cursor: pointer;
+}
+
+.btn-light:active {
+    background: rgb(7, 158, 228);
+    color: #fff;
+}
+
+.menu button {
+    font-size: 0.8em;
+    margin: 5px;
+}
+

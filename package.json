@@ -1,0 +1,15 @@
+{
+  "name": "artpro",
+  "version": "1.0.0",
+  "description": "ArtPro is a open-source drawing app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Isaac Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.2.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
