@@ -1,18 +1,22 @@
-//requiring path and fs modules
 const path = require('path');
 const fs = require('fs');
-//joining path of directory 
-console.log("Reading Gallery Folder");
-const directoryPath = path.join(__dirname, 'gallery');
-//passsing directoryPath and callback function
-fs.readdir(directoryPath, function (err, files) {
-    //handling error
-    if (err) {
-        return console.log('Unable to scan directory: ' + err);
-    } 
-    //listing all files using forEach
-    files.forEach(function (file) {
-        // Do whatever you want to do with the file
-        console.log("Arquivo"+file); 
-    });
-});
+
+const Gallery = {
+    async start() {
+        const directoryPath = path.join(__dirname, 'gallery')
+
+        console.log(directoryPath)
+
+        fs.readdir(directoryPath, function (err, files) {
+            if (err) {
+                return console.log('Unable to scan directory: ' + err);
+            }
+
+            files.forEach(file => {
+                console.log("File: " + file); 
+            })
+        })
+    }
+}
+
+export { Gallery }
