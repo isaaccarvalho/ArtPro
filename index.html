@@ -21,12 +21,16 @@
         <button class="new btn-light">New Project</button>
         <button class="open btn-light">Open Project</button>
         <div class="galery">
-            <script src="js/gallery.js">
-            </script>
+            
         </div>
     </div>
     
+    <script type="module">
+        import { Gallery } from './js/gallery.js'
 
+        Gallery.start()
+
+    </script>
     
 </body>
 </html>
